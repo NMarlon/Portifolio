@@ -1,0 +1,107 @@
+{
+  "exportDate": "2026-01-17T21:35:23.438Z",
+  "categories": [
+    {
+      "name": "Metas Profissionais",
+      "position": 0,
+      "id": "696bfd535b52856f63fd3ead",
+      "created_date": "2026-01-17T21:21:23.648000",
+      "updated_date": "2026-01-17T21:35:20.119000",
+      "created_by_id": "696bfca770363e90c2d8d52b",
+      "created_by": "marlonrviana@gmail.com",
+      "is_sample": false
+    },
+    {
+      "name": "Produtividade",
+      "position": 1,
+      "id": "696bfd535b52856f63fd3eae",
+      "created_date": "2026-01-17T21:21:23.648000",
+      "updated_date": "2026-01-17T21:21:23.648000",
+      "created_by_id": "696bfca770363e90c2d8d52b",
+      "created_by": "marlonrviana@gmail.com",
+      "is_sample": false
+    },
+    {
+      "name": "Qualidade",
+      "position": 2,
+      "id": "696bfd535b52856f63fd3eaf",
+      "created_date": "2026-01-17T21:21:23.648000",
+      "updated_date": "2026-01-17T21:21:23.648000",
+      "created_by_id": "696bfca770363e90c2d8d52b",
+      "created_by": "marlonrviana@gmail.com",
+      "is_sample": false
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Currículos Enviados",
+      "description": "",
+      "target_date": "2025-02-28",
+      "category_id": "696bfd535b52856f63fd3ead",
+      "value": 1,
+      "target_value": 2,
+      "id": "696bfd625b52856f63fd3eb3",
+      "created_date": "2026-01-17T21:21:38.373000",
+      "updated_date": "2026-01-17T21:34:40.942000",
+      "created_by_id": "696bfca770363e90c2d8d52b",
+      "created_by": "marlonrviana@gmail.com",
+      "is_sample": false
+    },
+    {
+      "name": "Reuniões Realizadas",
+      "description": "Total de reuniões com clientes",
+      "target_date": null,
+      "category_id": "696bfd535b52856f63fd3ead",
+      "value": 12,
+      "target_value": 20,
+      "id": "696bfd625b52856f63fd3eb4",
+      "created_date": "2026-01-17T21:21:38.373000",
+      "updated_date": "2026-01-17T21:21:38.373000",
+      "created_by_id": "696bfca770363e90c2d8d52b",
+      "created_by": "marlonrviana@gmail.com",
+      "is_sample": false
+    },
+    {
+      "name": "Tarefas Concluídas",
+      "description": "Tarefas finalizadas na semana",
+      "target_date": null,
+      "category_id": "696bfd535b52856f63fd3eae",
+      "value": 28,
+      "target_value": 30,
+      "id": "696bfd625b52856f63fd3eb5",
+      "created_date": "2026-01-17T21:21:38.373000",
+      "updated_date": "2026-01-17T21:21:38.373000",
+      "created_by_id": "696bfca770363e90c2d8d52b",
+      "created_by": "marlonrviana@gmail.com",
+      "is_sample": false
+    },
+    {
+      "name": "Horas Focadas",
+      "description": "Horas de trabalho focado por dia",
+      "target_date": null,
+      "category_id": "696bfd535b52856f63fd3eae",
+      "value": 6,
+      "target_value": 8,
+      "id": "696bfd625b52856f63fd3eb6",
+      "created_date": "2026-01-17T21:21:38.373000",
+      "updated_date": "2026-01-17T21:21:38.373000",
+      "created_by_id": "696bfca770363e90c2d8d52b",
+      "created_by": "marlonrviana@gmail.com",
+      "is_sample": false
+    },
+    {
+      "name": "Taxa de Satisfação",
+      "description": "Satisfação dos clientes",
+      "target_date": null,
+      "category_id": "696bfd535b52856f63fd3eaf",
+      "value": 92,
+      "target_value": 95,
+      "id": "696bfd625b52856f63fd3eb7",
+      "created_date": "2026-01-17T21:21:38.373000",
+      "updated_date": "2026-01-17T21:21:38.373000",
+      "created_by_id": "696bfca770363e90c2d8d52b",
+      "created_by": "marlonrviana@gmail.com",
+      "is_sample": false
+    }
+  ]
+}

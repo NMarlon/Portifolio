@@ -1,0 +1,6 @@
+
+
+- Fazer configurar local do save
+- opção de adicionar "notas" (para feedback e outros)
+- cores
+- Gráficos

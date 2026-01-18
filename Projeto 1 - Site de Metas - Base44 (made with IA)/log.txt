@@ -1,0 +1,13 @@
+Faça um aplicativo para eu ter minhas estatísticas de trabalho que eu vou anotar, algumas funções que ele DEVE ter:
+# Sobre cada Indicador-chave (estatística):
+- Ter nome, Ter data de criação e modificação (visibilidade Discreta), data de meta e descrição
+- Editar essas informações (com exceção de Data de modificação e criação)
+- Criar novo indicador-chave ou deletar
+- Separar em categorias (editáveis (o nome e posição) e criáveis e deletáveis) onde cada indicador pode estar dentro de uma.
+
+
+#Seria muito bom se:
+- botão de Salvar num arquivo no computador com as informações adicionadas pelo user (para que o user pudesse salvar o arquivo e fazer um backup das estatísticas)
+
+
+17/jan/26
